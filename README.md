@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 🌱, I'm AnIs <img src="https://img.freepik.com/photos-premium/ecran-ordinateur-plusieurs-moniteurs-lumiere-bleue-qui-dit-cybersecurite-dessus_664601-4587.jpg" width="50"></h2></h1>
+<h1 align="center">Hi 🌱, I'm AnIs <img src="https://img.freepik.com/photos-premium/ecran-ordinateur-plusieurs-moniteurs-lumiere-bleue-qui-dit-cybersecurite-dessus_664601-4587.jpg" width="200"></h2></h1>
 <div>
 
 
